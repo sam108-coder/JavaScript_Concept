@@ -1,0 +1,21 @@
+/* #heading {
+    color: blue;
+    background-color: yellow;
+} */
+
+.heading{
+    color: blue;
+    background-color: yellow;
+}
+
+body{
+    background-color: rgb(192, 255, 196);
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
+
+
+
